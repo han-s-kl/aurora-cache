@@ -1,0 +1,20 @@
+{
+  "lat": 52.73,
+  "lon": 6.92,
+  "fetched_at": "2026-01-28T16:22:51.680462",
+  "observation_count": 1,
+  "observations": [
+    {
+      "id": "ebird_S296148700",
+      "species": "Black Redstart",
+      "scientific_name": "Phoenicurus ochruros",
+      "lat": 52.773145,
+      "lon": 6.883608,
+      "observed_on": "2026-01-25 12:14",
+      "location_name": "Noordbargerstraat 77, Emmen NL-Drenthe 52.77314, 6.88361",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

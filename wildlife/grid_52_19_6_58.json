@@ -1,0 +1,56 @@
+{
+  "lat": 52.19,
+  "lon": 6.58,
+  "fetched_at": "2026-01-28T16:03:34.007971",
+  "observation_count": 4,
+  "observations": [
+    {
+      "id": "ebird_S296200207",
+      "species": "Barnacle Goose",
+      "scientific_name": "Branta leucopsis",
+      "lat": 52.3173754,
+      "lon": 6.6424543,
+      "observed_on": "2026-01-25 12:00",
+      "location_name": "Wolbeslanden",
+      "count": 3,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296200207",
+      "species": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "lat": 52.3173754,
+      "lon": 6.6424543,
+      "observed_on": "2026-01-25 12:00",
+      "location_name": "Wolbeslanden",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296200207",
+      "species": "Little Grebe",
+      "scientific_name": "Tachybaptus ruficollis",
+      "lat": 52.3173754,
+      "lon": 6.6424543,
+      "observed_on": "2026-01-25 12:00",
+      "location_name": "Wolbeslanden",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296200207",
+      "species": "Common Kingfisher",
+      "scientific_name": "Alcedo atthis",
+      "lat": 52.3173754,
+      "lon": 6.6424543,
+      "observed_on": "2026-01-25 12:00",
+      "location_name": "Wolbeslanden",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

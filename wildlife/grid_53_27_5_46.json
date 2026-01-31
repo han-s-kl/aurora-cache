@@ -1,0 +1,32 @@
+{
+  "lat": 53.27,
+  "lon": 5.46,
+  "fetched_at": "2026-01-28T16:37:34.058422",
+  "observation_count": 2,
+  "observations": [
+    {
+      "id": "inat_336080614",
+      "species": "Short-eared Owl",
+      "scientific_name": "Asio flammeus",
+      "lat": 53.2501388889,
+      "lon": 5.5095111111,
+      "observed_on": "2026-01-25 12:57:10",
+      "location_name": "8854 RR Oosterbierum, Netherlands",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610661425/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_335820657",
+      "species": "Barnacle Goose",
+      "scientific_name": "Branta leucopsis",
+      "lat": 53.14564173,
+      "lon": 5.41141364,
+      "observed_on": "2026-01-23 13:36:12",
+      "location_name": "8821 LA Kimswerd, Netherlands",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610145468/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    }
+  ]
+}

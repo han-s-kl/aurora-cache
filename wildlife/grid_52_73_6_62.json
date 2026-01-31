@@ -1,0 +1,80 @@
+{
+  "lat": 52.73,
+  "lon": 6.62,
+  "fetched_at": "2026-01-28T16:22:29.255035",
+  "observation_count": 6,
+  "observations": [
+    {
+      "id": "ebird_S295934483",
+      "species": "Eurasian Jay",
+      "scientific_name": "Garrulus glandarius",
+      "lat": 52.7120109,
+      "lon": 6.4781392,
+      "observed_on": "2026-01-24 12:27",
+      "location_name": "Zuiderpark",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295934483",
+      "species": "Eurasian Magpie",
+      "scientific_name": "Pica pica",
+      "lat": 52.7120109,
+      "lon": 6.4781392,
+      "observed_on": "2026-01-24 12:27",
+      "location_name": "Zuiderpark",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295934483",
+      "species": "Eurasian Jackdaw",
+      "scientific_name": "Coloeus monedula",
+      "lat": 52.7120109,
+      "lon": 6.4781392,
+      "observed_on": "2026-01-24 12:27",
+      "location_name": "Zuiderpark",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295934483",
+      "species": "Eurasian Wren",
+      "scientific_name": "Troglodytes troglodytes",
+      "lat": 52.7120109,
+      "lon": 6.4781392,
+      "observed_on": "2026-01-24 12:27",
+      "location_name": "Zuiderpark",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295934483",
+      "species": "European Robin",
+      "scientific_name": "Erithacus rubecula",
+      "lat": 52.7120109,
+      "lon": 6.4781392,
+      "observed_on": "2026-01-24 12:27",
+      "location_name": "Zuiderpark",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295934483",
+      "species": "Common Chaffinch",
+      "scientific_name": "Fringilla coelebs",
+      "lat": 52.7120109,
+      "lon": 6.4781392,
+      "observed_on": "2026-01-24 12:27",
+      "location_name": "Zuiderpark",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

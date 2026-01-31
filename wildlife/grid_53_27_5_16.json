@@ -1,0 +1,20 @@
+{
+  "lat": 53.27,
+  "lon": 5.16,
+  "fetched_at": "2026-01-28T16:37:08.172267",
+  "observation_count": 1,
+  "observations": [
+    {
+      "id": "ebird_S295818842",
+      "species": "Short-toed Treecreeper",
+      "scientific_name": "Certhia brachydactyla",
+      "lat": 53.373857,
+      "lon": 5.220542,
+      "observed_on": "2026-01-23 15:00",
+      "location_name": "De tuintjes",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

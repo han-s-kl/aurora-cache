@@ -1,0 +1,104 @@
+{
+  "lat": 52.91,
+  "lon": 5.74,
+  "fetched_at": "2026-01-28T16:26:48.840817",
+  "observation_count": 8,
+  "observations": [
+    {
+      "id": "ebird_S296132618",
+      "species": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 10,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296132618",
+      "species": "Eurasian Collared-Dove",
+      "scientific_name": "Streptopelia decaocto",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296132618",
+      "species": "Eurasian Blue Tit",
+      "scientific_name": "Cyanistes caeruleus",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296132618",
+      "species": "Eurasian Blackbird",
+      "scientific_name": "Turdus merula",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 4,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296132618",
+      "species": "European Robin",
+      "scientific_name": "Erithacus rubecula",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296132618",
+      "species": "House Sparrow",
+      "scientific_name": "Passer domesticus",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 10,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296132618",
+      "species": "Common Chaffinch",
+      "scientific_name": "Fringilla coelebs",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 6,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296132618",
+      "species": "European Greenfinch",
+      "scientific_name": "Chloris chloris",
+      "lat": 52.935561,
+      "lon": 5.927138,
+      "observed_on": "2026-01-25 09:00",
+      "location_name": "Dopheide 21, Heerenveen NL-Friesland 52.93556, 5.92714",
+      "count": 6,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

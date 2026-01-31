@@ -1,0 +1,80 @@
+{
+  "lat": 53.09,
+  "lon": 5.15,
+  "fetched_at": "2026-01-28T16:31:48.251101",
+  "observation_count": 6,
+  "observations": [
+    {
+      "id": "ebird_S296383652",
+      "species": "Graylag Goose",
+      "scientific_name": "Anser anser",
+      "lat": 53.0198889,
+      "lon": 5.2022481,
+      "observed_on": "2026-01-26 14:04",
+      "location_name": "Afsluitdijk--Breezanddijk (Enclosure Dam)",
+      "count": 8,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296383652",
+      "species": "Gadwall",
+      "scientific_name": "Mareca strepera",
+      "lat": 53.0198889,
+      "lon": 5.2022481,
+      "observed_on": "2026-01-26 14:04",
+      "location_name": "Afsluitdijk--Breezanddijk (Enclosure Dam)",
+      "count": 6,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296383652",
+      "species": "Tufted Duck",
+      "scientific_name": "Aythya fuligula",
+      "lat": 53.0198889,
+      "lon": 5.2022481,
+      "observed_on": "2026-01-26 14:04",
+      "location_name": "Afsluitdijk--Breezanddijk (Enclosure Dam)",
+      "count": 40,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296383652",
+      "species": "Eurasian Coot",
+      "scientific_name": "Fulica atra",
+      "lat": 53.0198889,
+      "lon": 5.2022481,
+      "observed_on": "2026-01-26 14:04",
+      "location_name": "Afsluitdijk--Breezanddijk (Enclosure Dam)",
+      "count": 6,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296383652",
+      "species": "Great Crested Grebe",
+      "scientific_name": "Podiceps cristatus",
+      "lat": 53.0198889,
+      "lon": 5.2022481,
+      "observed_on": "2026-01-26 14:04",
+      "location_name": "Afsluitdijk--Breezanddijk (Enclosure Dam)",
+      "count": 5,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296383652",
+      "species": "Great Cormorant",
+      "scientific_name": "Phalacrocorax carbo",
+      "lat": 53.0198889,
+      "lon": 5.2022481,
+      "observed_on": "2026-01-26 14:04",
+      "location_name": "Afsluitdijk--Breezanddijk (Enclosure Dam)",
+      "count": 4,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

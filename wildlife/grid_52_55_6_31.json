@@ -1,0 +1,32 @@
+{
+  "lat": 52.55,
+  "lon": 6.31,
+  "fetched_at": "2026-01-28T16:15:41.411208",
+  "observation_count": 2,
+  "observations": [
+    {
+      "id": "inat_336465056",
+      "species": "Hawfinch",
+      "scientific_name": "Coccothraustes coccothraustes",
+      "lat": 52.5405091734,
+      "lon": 6.1261586845,
+      "observed_on": "2026-01-28 14:46:00",
+      "location_name": "8034 PJ Zwolle, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611432589/medium.jpg",
+      "source": "inaturalist",
+      "quality": "needs_id"
+    },
+    {
+      "id": "inat_336234067",
+      "species": "Black-headed Gull",
+      "scientific_name": "Chroicocephalus ridibundus",
+      "lat": 52.5274827784,
+      "lon": 6.101930961,
+      "observed_on": "2026-01-26 14:43:05",
+      "location_name": "Zwolle, Rijnlaan/Amstel, 8032 CA Zwolle, Nederland",
+      "photo_url": "https://static.inaturalist.org/photos/610966494/medium.jpg",
+      "source": "inaturalist",
+      "quality": "needs_id"
+    }
+  ]
+}

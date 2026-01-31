@@ -1,0 +1,20 @@
+{
+  "lat": 53.09,
+  "lon": 5.75,
+  "fetched_at": "2026-01-28T16:32:33.458706",
+  "observation_count": 1,
+  "observations": [
+    {
+      "id": "ebird_S295993055",
+      "species": "Western Marsh Harrier",
+      "scientific_name": "Circus aeruginosus",
+      "lat": 53.0426709,
+      "lon": 5.6737287,
+      "observed_on": "2026-01-24 17:11",
+      "location_name": "Bos",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

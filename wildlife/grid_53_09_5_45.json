@@ -1,0 +1,32 @@
+{
+  "lat": 53.09,
+  "lon": 5.45,
+  "fetched_at": "2026-01-28T16:32:10.447138",
+  "observation_count": 2,
+  "observations": [
+    {
+      "id": "inat_335820657",
+      "species": "Barnacle Goose",
+      "scientific_name": "Branta leucopsis",
+      "lat": 53.14564173,
+      "lon": 5.41141364,
+      "observed_on": "2026-01-23 13:36:12",
+      "location_name": "8821 LA Kimswerd, Netherlands",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610145468/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_335812108",
+      "species": "Northern Pintail",
+      "scientific_name": "Anas acuta",
+      "lat": 53.132675,
+      "lon": 5.4089138889,
+      "observed_on": "2026-01-23 11:31:27",
+      "location_name": "8821 LA Kimswerd, Netherlands",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610128536/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    }
+  ]
+}

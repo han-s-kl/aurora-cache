@@ -1,0 +1,92 @@
+{
+  "lat": 53.09,
+  "lon": 6.05,
+  "fetched_at": "2026-01-28T16:32:56.329737",
+  "observation_count": 7,
+  "observations": [
+    {
+      "id": "inat_335935155",
+      "species": "Eurasian Green Woodpecker",
+      "scientific_name": "Picus viridis",
+      "lat": 53.1312035282,
+      "lon": 6.086378172,
+      "observed_on": "2026-01-24 12:22:52",
+      "location_name": "9207 KC Drachten, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610375401/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_335860627",
+      "species": "European Robin",
+      "scientific_name": "Erithacus rubecula",
+      "lat": 53.1311208512,
+      "lon": 6.0866671801,
+      "observed_on": "2026-01-23 13:18:23",
+      "location_name": "9207 KC Drachten, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610225343/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "ebird_S295978596",
+      "species": "Eurasian Moorhen",
+      "scientific_name": "Gallinula chloropus",
+      "lat": 53.0117518,
+      "lon": 6.2322547,
+      "observed_on": "2026-01-24 15:14",
+      "location_name": "2 Balkweg, Donkerbroek, Friesland, NL (53,012, 6,232)",
+      "count": 5,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295978596",
+      "species": "Eurasian Coot",
+      "scientific_name": "Fulica atra",
+      "lat": 53.0117518,
+      "lon": 6.2322547,
+      "observed_on": "2026-01-24 15:14",
+      "location_name": "2 Balkweg, Donkerbroek, Friesland, NL (53,012, 6,232)",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295978596",
+      "species": "Common Buzzard",
+      "scientific_name": "Buteo buteo",
+      "lat": 53.0117518,
+      "lon": 6.2322547,
+      "observed_on": "2026-01-24 15:14",
+      "location_name": "2 Balkweg, Donkerbroek, Friesland, NL (53,012, 6,232)",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295978596",
+      "species": "Eurasian Jackdaw",
+      "scientific_name": "Coloeus monedula",
+      "lat": 53.0117518,
+      "lon": 6.2322547,
+      "observed_on": "2026-01-24 15:14",
+      "location_name": "2 Balkweg, Donkerbroek, Friesland, NL (53,012, 6,232)",
+      "count": 10,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295978596",
+      "species": "Fieldfare",
+      "scientific_name": "Turdus pilaris",
+      "lat": 53.0117518,
+      "lon": 6.2322547,
+      "observed_on": "2026-01-24 15:14",
+      "location_name": "2 Balkweg, Donkerbroek, Friesland, NL (53,012, 6,232)",
+      "count": 20,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

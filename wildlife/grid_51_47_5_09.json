@@ -1,0 +1,152 @@
+{
+  "lat": 51.47,
+  "lon": 5.09,
+  "fetched_at": "2026-01-28T15:37:20.366312",
+  "observation_count": 12,
+  "observations": [
+    {
+      "id": "inat_336104429",
+      "species": "Common Buzzard",
+      "scientific_name": "Buteo buteo",
+      "lat": 51.511718886,
+      "lon": 4.9347375844,
+      "observed_on": "2026-01-25 16:52:00",
+      "location_name": "Alphen, North Brabant, NL",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610710177/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336087446",
+      "species": "Greylag \u00d7 Canada Goose",
+      "scientific_name": "Anser anser \u00d7 Branta canadensis",
+      "lat": 51.5839055646,
+      "lon": 4.9838366266,
+      "observed_on": "2026-01-25 14:28:59",
+      "location_name": "Tilburg, Ridderkerksingel, 5035 KL Tilburg, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610675621/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336065902",
+      "species": "Eurasian Blackbird",
+      "scientific_name": "Turdus merula",
+      "lat": 51.5878866667,
+      "lon": 5.0812221667,
+      "observed_on": "2026-01-24 09:42:08",
+      "location_name": "Tilburg, NL-NB, NL",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610632157/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Common Wood-Pigeon",
+      "scientific_name": "Columba palumbus",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Gray Heron",
+      "scientific_name": "Ardea cinerea",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Middle Spotted Woodpecker",
+      "scientific_name": "Dendrocoptes medius",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Eurasian Jay",
+      "scientific_name": "Garrulus glandarius",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Great Tit",
+      "scientific_name": "Parus major",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Long-tailed Tit",
+      "scientific_name": "Aegithalos caudatus",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Short-toed Treecreeper",
+      "scientific_name": "Certhia brachydactyla",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "Eurasian Wren",
+      "scientific_name": "Troglodytes troglodytes",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296201987",
+      "species": "European Robin",
+      "scientific_name": "Erithacus rubecula",
+      "lat": 51.5191862,
+      "lon": 4.9017364,
+      "observed_on": "2026-01-25 15:41",
+      "location_name": "Ossengoor Lake",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

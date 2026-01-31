@@ -1,0 +1,44 @@
+{
+  "lat": 52.55,
+  "lon": 6.61,
+  "fetched_at": "2026-01-28T16:16:04.522397",
+  "observation_count": 3,
+  "observations": [
+    {
+      "id": "inat_336358081",
+      "species": "Holarctic Mallard",
+      "scientific_name": "Anas platyrhynchos platyrhynchos",
+      "lat": 52.5785295852,
+      "lon": 6.6170984879,
+      "observed_on": "2026-01-27 15:51:43",
+      "location_name": "7772 VK Hardenberg, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611217477/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336357964",
+      "species": "Eurasian coot",
+      "scientific_name": "Fulica atra atra",
+      "lat": 52.5785632021,
+      "lon": 6.6170988232,
+      "observed_on": "2026-01-27 15:51:43",
+      "location_name": "7772 VK Hardenberg, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611217107/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336225589",
+      "species": "Western Great Egret",
+      "scientific_name": "Ardea alba alba",
+      "lat": 52.5842630204,
+      "lon": 6.6084034368,
+      "observed_on": "2026-01-26",
+      "location_name": "7773 CC Hardenberg, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610949375/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    }
+  ]
+}

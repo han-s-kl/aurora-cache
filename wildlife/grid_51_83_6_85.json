@@ -1,0 +1,20 @@
+{
+  "lat": 51.83,
+  "lon": 6.85,
+  "fetched_at": "2026-01-28T15:51:37.267454",
+  "observation_count": 1,
+  "observations": [
+    {
+      "id": "ebird_S295993751",
+      "species": "Short-toed Treecreeper",
+      "scientific_name": "Certhia brachydactyla",
+      "lat": 51.775126,
+      "lon": 6.6753531,
+      "observed_on": "2026-01-24",
+      "location_name": "B\u00fcngernsche und Dingdener Heide (NSG)",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

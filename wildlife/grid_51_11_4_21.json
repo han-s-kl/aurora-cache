@@ -1,0 +1,92 @@
+{
+  "lat": 51.11,
+  "lon": 4.21,
+  "fetched_at": "2026-01-28T15:23:34.306633",
+  "observation_count": 7,
+  "observations": [
+    {
+      "id": "inat_336459435",
+      "species": "Egyptian Goose",
+      "scientific_name": "Alopochen aegyptiaca",
+      "lat": 51.0197415,
+      "lon": 4.2898519997,
+      "observed_on": "2026-01-28 13:21:35",
+      "location_name": "Vlaams Brabant, Vlaanderen, BE",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611420741/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336462330",
+      "species": "Black-headed Gull",
+      "scientific_name": "Chroicocephalus ridibundus",
+      "lat": 51.019731,
+      "lon": 4.2899079722,
+      "observed_on": "2026-01-28 13:21:12",
+      "location_name": "Londerzeel Blauwenhoek, 1840 Londerzeel, Belgium",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611427009/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336278840",
+      "species": "Muscovy Duck",
+      "scientific_name": "Cairina moschata",
+      "lat": 51.1005227062,
+      "lon": 4.0015584603,
+      "observed_on": "2026-01-26 14:25:02",
+      "location_name": "Lokeren Ziekenhuis, 9160 Lokeren, Belgium",
+      "photo_url": "https://static.inaturalist.org/photos/611056911/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "ebird_S296379055",
+      "species": "White Stork",
+      "scientific_name": "Ciconia ciconia",
+      "lat": 51.1443369,
+      "lon": 4.1876092,
+      "observed_on": "2026-01-26 13:46",
+      "location_name": "Near Gent",
+      "count": 4,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295972296",
+      "species": "Eurasian Green Woodpecker",
+      "scientific_name": "Picus viridis",
+      "lat": 50.9965837,
+      "lon": 4.1689778,
+      "observed_on": "2026-01-24 15:43",
+      "location_name": "128 Varentstraat, Lebbeke, Vlaanderen, BE (50,997, 4,169)",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295927647",
+      "species": "Graylag Goose",
+      "scientific_name": "Anser anser",
+      "lat": 51.171302,
+      "lon": 4.230523,
+      "observed_on": "2026-01-24 10:58",
+      "location_name": "Fort van Haasdonk",
+      "count": 21,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S295927647",
+      "species": "Common Merganser",
+      "scientific_name": "Mergus merganser",
+      "lat": 51.171302,
+      "lon": 4.230523,
+      "observed_on": "2026-01-24 10:58",
+      "location_name": "Fort van Haasdonk",
+      "count": 10,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

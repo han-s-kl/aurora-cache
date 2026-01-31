@@ -1,0 +1,128 @@
+{
+  "lat": 51.11,
+  "lon": 5.36,
+  "fetched_at": "2026-01-28T15:25:09.882535",
+  "observation_count": 10,
+  "observations": [
+    {
+      "id": "inat_336285679",
+      "species": "Great Egret",
+      "scientific_name": "Ardea alba",
+      "lat": 51.2154476337,
+      "lon": 5.474444637,
+      "observed_on": "2026-01-26 15:21:27",
+      "location_name": "Pelt, Limburg, BE",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611069851/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336285688",
+      "species": "Greylag Goose",
+      "scientific_name": "Anser anser",
+      "lat": 51.2154868939,
+      "lon": 5.474398649,
+      "observed_on": "2026-01-26 14:53:42",
+      "location_name": "Rietweg, Bocholt, Limburg, BE",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611069882/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336285704",
+      "species": "Eurasian Blackbird",
+      "scientific_name": "Turdus merula",
+      "lat": 51.2154822616,
+      "lon": 5.4743922884,
+      "observed_on": "2026-01-26 14:49:32",
+      "location_name": "Bocholt, Limburg, BE",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611069912/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336285889",
+      "species": "Great Tit",
+      "scientific_name": "Parus major",
+      "lat": 51.2154727245,
+      "lon": 5.4743768641,
+      "observed_on": "2026-01-26 14:45:27",
+      "location_name": "Hamonterweg, Budel-Schoot, North Brabant, NL",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611070422/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "ebird_S296196478",
+      "species": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "lat": 51.083092,
+      "lon": 5.456486,
+      "observed_on": "2026-01-23 11:15",
+      "location_name": "Peer, Limburg",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296196478",
+      "species": "Eurasian Jay",
+      "scientific_name": "Garrulus glandarius",
+      "lat": 51.083092,
+      "lon": 5.456486,
+      "observed_on": "2026-01-23 11:15",
+      "location_name": "Peer, Limburg",
+      "count": 2,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296196478",
+      "species": "Eurasian Blue Tit",
+      "scientific_name": "Cyanistes caeruleus",
+      "lat": 51.083092,
+      "lon": 5.456486,
+      "observed_on": "2026-01-23 11:15",
+      "location_name": "Peer, Limburg",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296196478",
+      "species": "European Robin",
+      "scientific_name": "Erithacus rubecula",
+      "lat": 51.083092,
+      "lon": 5.456486,
+      "observed_on": "2026-01-23 11:15",
+      "location_name": "Peer, Limburg",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296196478",
+      "species": "House Sparrow",
+      "scientific_name": "Passer domesticus",
+      "lat": 51.083092,
+      "lon": 5.456486,
+      "observed_on": "2026-01-23 11:15",
+      "location_name": "Peer, Limburg",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    },
+    {
+      "id": "ebird_S296196478",
+      "species": "Common Chaffinch",
+      "scientific_name": "Fringilla coelebs",
+      "lat": 51.083092,
+      "lon": 5.456486,
+      "observed_on": "2026-01-23 11:15",
+      "location_name": "Peer, Limburg",
+      "count": 1,
+      "source": "ebird",
+      "quality": "verified"
+    }
+  ]
+}

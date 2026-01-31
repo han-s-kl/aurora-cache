@@ -1,0 +1,20 @@
+{
+  "lat": 51.83,
+  "lon": 3.64,
+  "fetched_at": "2026-01-28T15:46:54.326914",
+  "observation_count": 1,
+  "observations": [
+    {
+      "id": "inat_335994195",
+      "species": "Common Scoter",
+      "scientific_name": "Melanitta nigra",
+      "lat": 51.73364,
+      "lon": 3.7815366667,
+      "observed_on": "2026/01/24 10:58",
+      "location_name": "Renesse, Nederland",
+      "photo_url": "https://static.inaturalist.org/photos/610484853/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    }
+  ]
+}

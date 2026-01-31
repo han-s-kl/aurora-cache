@@ -1,0 +1,44 @@
+{
+  "lat": 52.19,
+  "lon": 5.7,
+  "fetched_at": "2026-01-28T16:02:12.846159",
+  "observation_count": 3,
+  "observations": [
+    {
+      "id": "inat_336250078",
+      "species": "Great Spotted Woodpecker",
+      "scientific_name": "Dendrocopos major",
+      "lat": 52.0588556,
+      "lon": 5.6678771,
+      "observed_on": "2026/01/25 13:35",
+      "location_name": "Edesche Bosch, 6718 ZA Ede, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610998593/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336250009",
+      "species": "Mistle Thrush",
+      "scientific_name": "Turdus viscivorus",
+      "lat": 52.0580556,
+      "lon": 5.7066667,
+      "observed_on": "2026/01/25 11:38",
+      "location_name": "Edese Heide, 6718 TD Ede, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610998375/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336249937",
+      "species": "Common Raven",
+      "scientific_name": "Corvus corax",
+      "lat": 52.0580556,
+      "lon": 5.7066667,
+      "observed_on": "2026/01/25 11:30",
+      "location_name": "Edese Heide, 6718 TD Ede, Nederland",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610998281/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "lat": 52.37,
+  "lon": 6.89,
+  "fetched_at": "2026-01-28T16:10:36.107220",
+  "observation_count": 3,
+  "observations": [
+    {
+      "id": "inat_336451766",
+      "species": "Carrion Crow",
+      "scientific_name": "Corvus corone",
+      "lat": 52.244575,
+      "lon": 6.8511416667,
+      "observed_on": "2026-01-28 11:27:30",
+      "location_name": "Calslaan, Enschede, Overijssel, NL",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611405987/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336223700",
+      "species": "Grey Heron",
+      "scientific_name": "Ardea cinerea",
+      "lat": 52.250405,
+      "lon": 6.8513133333,
+      "observed_on": "2026-01-26 12:10:04",
+      "location_name": "Witbreuksweg, Enschede, Overijssel, NL",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610945247/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    },
+    {
+      "id": "inat_336101168",
+      "species": "Great Egret",
+      "scientific_name": "Ardea alba",
+      "lat": 52.2740633333,
+      "lon": 6.8405083333,
+      "observed_on": "2026-01-25 15:14:33+01:00",
+      "location_name": "Leutinkveldweg, Enschede, Overijssel, NL",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610704258/medium.jpg",
+      "source": "inaturalist",
+      "quality": "research"
+    }
+  ]
+}
