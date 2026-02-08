@@ -1,0 +1,62 @@
+{
+  "lat": 51.83,
+  "lon": 3.35,
+  "fetched_at": "2026-02-07T19:01:28.671663",
+  "observation_count": 3,
+  "observations": [
+    {
+      "id": "wn_385485654",
+      "species": "Grijze Zeehond",
+      "scientific_name": "Halichoerus grypus",
+      "lat": 51.8529292,
+      "lon": 3.1567978,
+      "observed_on": "2026-02-06",
+      "time": "10:48",
+      "location_name": "Noordzee - Zeeuwse Banken",
+      "source": "waarneming_nl",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/385485654/",
+      "count": 1,
+      "distance_km": 13.52
+    },
+    {
+      "id": "wn_385508965",
+      "species": "Drieteenmeeuw",
+      "scientific_name": "Rissa tridactyla",
+      "lat": 51.8537053,
+      "lon": 3.1562525,
+      "observed_on": "2026-02-06",
+      "time": "12:04",
+      "location_name": "Noordzee - Zeeuwse Banken",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/385508965/",
+      "count": 3,
+      "distance_km": 13.57
+    },
+    {
+      "id": "wn_385510539",
+      "species": "Gewone Bruinvis",
+      "scientific_name": "Phocoena phocoena",
+      "lat": 51.7651315,
+      "lon": 3.1671865,
+      "observed_on": "2026-02-06",
+      "time": "09:18",
+      "location_name": "Noordzee - Zeeuwse Banken",
+      "source": "waarneming_nl",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/385510539/",
+      "count": 1,
+      "distance_km": 14.49
+    }
+  ]
+}
