@@ -1,0 +1,44 @@
+{
+  "lat": 50.75,
+  "lon": 6.2,
+  "fetched_at": "2026-02-21T06:33:04.292293",
+  "observation_count": 2,
+  "observations": [
+    {
+      "id": "wn_386365100",
+      "species": "Kraanvogel",
+      "scientific_name": "Grus grus",
+      "lat": 50.7597565,
+      "lon": 6.017370600000049,
+      "observed_on": "2026-02-20",
+      "time": "13:17",
+      "location_name": "Vaals - Vaalserberg",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "https://waarneming.nl/media/photo/144202024.jpg",
+      "permalink": "https://waarneming.nl/observation/386365100/",
+      "count": 40,
+      "distance_km": 12.89
+    },
+    {
+      "id": "wn_386365199",
+      "species": "Kraanvogel",
+      "scientific_name": "Grus grus",
+      "lat": 50.77336362304923,
+      "lon": 6.003020128996147,
+      "observed_on": "2026-02-20",
+      "time": "13:19",
+      "location_name": "Vaals - Hoog Vaals e.o.",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/386365199/",
+      "count": 70,
+      "distance_km": 14.1
+    }
+  ]
+}

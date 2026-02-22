@@ -1,0 +1,62 @@
+{
+  "lat": 51.29,
+  "lon": 4.5,
+  "fetched_at": "2026-02-21T06:33:18.270690",
+  "observation_count": 3,
+  "observations": [
+    {
+      "id": "wn_386079661",
+      "species": "Kruisbek",
+      "scientific_name": "Loxia curvirostra",
+      "lat": 51.39080810546875,
+      "lon": 4.387814998626709,
+      "observed_on": "2026-02-15",
+      "time": "13:29",
+      "location_name": "Grenspark Kalmthoutse Heide - Kriekelareduinen",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/386079661/",
+      "count": 1,
+      "distance_km": 13.65
+    },
+    {
+      "id": "wn_386242606",
+      "species": "Appelvink",
+      "scientific_name": "Coccothraustes coccothraustes",
+      "lat": 51.35754949950099,
+      "lon": 4.395080304143704,
+      "observed_on": "2026-02-18",
+      "time": "09:58",
+      "location_name": "Putte - dorp ",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/386242606/",
+      "count": 1,
+      "distance_km": 10.47
+    },
+    {
+      "id": "wn_386243701",
+      "species": "Kleine Bonte Specht",
+      "scientific_name": "Dryobates minor",
+      "lat": 51.37357624531608,
+      "lon": 4.39735815692431,
+      "observed_on": "2026-02-18",
+      "time": "10:25",
+      "location_name": "Putte - Leuvensche Heide",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/386243701/",
+      "count": 1,
+      "distance_km": 11.71
+    }
+  ]
+}
