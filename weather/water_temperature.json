@@ -1,0 +1,95 @@
+{
+  "fetched_at": "2026-03-01T19:17:07.452324",
+  "source": "Rijkswaterstaat DD API 2.0",
+  "location_count": 11,
+  "locations": [
+    {
+      "name": "Schiermonnikoog",
+      "code": "schiermonnikoog.noord",
+      "lat": 53.59,
+      "lon": 6.2,
+      "water_temp": 5.4,
+      "is_measured": true
+    },
+    {
+      "name": "Ameland",
+      "code": "ameland.nes",
+      "lat": 53.43,
+      "lon": 5.77,
+      "water_temp": 7.0,
+      "is_measured": true
+    },
+    {
+      "name": "Terschelling",
+      "code": "terschelling.noordzee",
+      "lat": 53.44,
+      "lon": 5.22,
+      "water_temp": 7.8,
+      "is_measured": true
+    },
+    {
+      "name": "Vlieland",
+      "code": "vlieland.west",
+      "lat": 53.25,
+      "lon": 4.93,
+      "water_temp": 8.1,
+      "is_measured": true
+    },
+    {
+      "name": "Den Helder",
+      "code": "denhelder.marsdiep",
+      "lat": 52.96,
+      "lon": 4.75,
+      "water_temp": 6.0,
+      "is_measured": true
+    },
+    {
+      "name": "IJmuiden",
+      "code": "ijmuiden.buitenhaven",
+      "lat": 52.46,
+      "lon": 4.56,
+      "water_temp": 7.2,
+      "is_measured": true
+    },
+    {
+      "name": "Europlatform",
+      "code": "europlatform",
+      "lat": 52.0,
+      "lon": 3.28,
+      "water_temp": 6.0,
+      "is_measured": false
+    },
+    {
+      "name": "Hoek van Holland",
+      "code": "hoekvanholland",
+      "lat": 51.98,
+      "lon": 4.12,
+      "water_temp": 8.3,
+      "is_measured": true
+    },
+    {
+      "name": "Stellendam",
+      "code": "stellendam.buiten",
+      "lat": 51.83,
+      "lon": 3.87,
+      "water_temp": 8.7,
+      "is_measured": true
+    },
+    {
+      "name": "Vlissingen",
+      "code": "vlissingen",
+      "lat": 51.44,
+      "lon": 3.6,
+      "water_temp": 9.7,
+      "is_measured": true
+    },
+    {
+      "name": "Cadzand",
+      "code": "cadzand.1",
+      "lat": 51.37,
+      "lon": 3.41,
+      "water_temp": 11.0,
+      "is_measured": true
+    }
+  ]
+}

@@ -1,0 +1,4583 @@
+{
+  "fetched_at": "2026-03-01T19:16:57.673444",
+  "source": "MET Norway (ECMWF via yr.no)",
+  "points": 22,
+  "locations": [
+    {
+      "name": "Terschelling",
+      "lat": 53.4,
+      "lon": 5.35,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 3,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 58,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 48,
+          "mid_clouds": 94,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 47,
+          "mid_clouds": 96,
+          "low_clouds": 93,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 69,
+          "mid_clouds": 65,
+          "low_clouds": 54,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 92,
+          "mid_clouds": 46,
+          "low_clouds": 9,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 92,
+          "mid_clouds": 18,
+          "low_clouds": 2,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 95,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 95
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 17,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 26,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 27,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 23,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 17,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 7,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 60,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 60
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 18,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 18
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 49,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 49
+        }
+      ]
+    },
+    {
+      "name": "Groningen",
+      "lat": 53.22,
+      "lon": 6.57,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 92,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 32,
+          "mid_clouds": 98,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 58,
+          "mid_clouds": 99,
+          "low_clouds": 99,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 74,
+          "mid_clouds": 93,
+          "low_clouds": 94,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 84,
+          "mid_clouds": 20,
+          "low_clouds": 33,
+          "total_clouds": 91
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 88,
+          "mid_clouds": 10,
+          "low_clouds": 5,
+          "total_clouds": 90
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 92,
+          "mid_clouds": 19,
+          "low_clouds": 0,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 9,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 89,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 89
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        }
+      ]
+    },
+    {
+      "name": "Leeuwarden",
+      "lat": 53.2,
+      "lon": 5.8,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 31,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 57,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 58,
+          "mid_clouds": 97,
+          "low_clouds": 91,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 76,
+          "mid_clouds": 46,
+          "low_clouds": 42,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 88,
+          "mid_clouds": 28,
+          "low_clouds": 15,
+          "total_clouds": 92
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 92,
+          "mid_clouds": 33,
+          "low_clouds": 2,
+          "total_clouds": 95
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 10,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 10,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 26,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 27,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 16,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 9,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 84,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 84
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 74,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 74
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 82,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 82
+        }
+      ]
+    },
+    {
+      "name": "Den Helder",
+      "lat": 52.96,
+      "lon": 4.76,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 32,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 61,
+          "mid_clouds": 99,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 48,
+          "mid_clouds": 94,
+          "low_clouds": 81,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 59,
+          "mid_clouds": 77,
+          "low_clouds": 75,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 82,
+          "mid_clouds": 45,
+          "low_clouds": 26,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 88,
+          "mid_clouds": 6,
+          "low_clouds": 1,
+          "total_clouds": 89
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 87,
+          "mid_clouds": 4,
+          "low_clouds": 0,
+          "total_clouds": 88
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 10,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 90,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 90
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 64,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 64
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 32,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 32
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 25,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 25
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 69,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 69
+        }
+      ]
+    },
+    {
+      "name": "Alkmaar",
+      "lat": 52.63,
+      "lon": 4.75,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 99,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 99,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 12,
+          "mid_clouds": 99,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 66,
+          "mid_clouds": 96,
+          "low_clouds": 99,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 48,
+          "mid_clouds": 60,
+          "low_clouds": 92,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 63,
+          "mid_clouds": 57,
+          "low_clouds": 80,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 76,
+          "mid_clouds": 28,
+          "low_clouds": 7,
+          "total_clouds": 83
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 74,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 75
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 82,
+          "mid_clouds": 7,
+          "low_clouds": 0,
+          "total_clouds": 84
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 95,
+          "mid_clouds": 9,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 90,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 90
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 92,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 92
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 66,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 66
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 65,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 65
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 70,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 70
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 85,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 85
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        }
+      ]
+    },
+    {
+      "name": "Amsterdam",
+      "lat": 52.37,
+      "lon": 4.9,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 78,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 10,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 6,
+          "low_clouds": 93,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 63,
+          "mid_clouds": 2,
+          "low_clouds": 4,
+          "total_clouds": 66
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 2,
+          "low_clouds": 2,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 86,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 86
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 93,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 30,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 30
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 21,
+          "mid_clouds": 6,
+          "low_clouds": 0,
+          "total_clouds": 25
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 34,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 36
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 91,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 91
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 97
+        }
+      ]
+    },
+    {
+      "name": "Lelystad",
+      "lat": 52.46,
+      "lon": 5.48,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 99,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 70,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 9,
+          "low_clouds": 92,
+          "total_clouds": 92
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 6,
+          "low_clouds": 59,
+          "total_clouds": 61
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 73,
+          "mid_clouds": 8,
+          "low_clouds": 9,
+          "total_clouds": 77
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 86,
+          "mid_clouds": 15,
+          "low_clouds": 0,
+          "total_clouds": 88
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 92,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 92
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 91,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 92
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        }
+      ]
+    },
+    {
+      "name": "Zwolle",
+      "lat": 52.51,
+      "lon": 6.09,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 99,
+          "low_clouds": 44,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 51,
+          "low_clouds": 81,
+          "total_clouds": 95
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 5,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 31,
+          "mid_clouds": 13,
+          "low_clouds": 84,
+          "total_clouds": 91
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 46,
+          "mid_clouds": 33,
+          "low_clouds": 0,
+          "total_clouds": 64
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 80,
+          "mid_clouds": 16,
+          "low_clouds": 0,
+          "total_clouds": 82
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 57,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 57
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 76,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 76
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        }
+      ]
+    },
+    {
+      "name": "Utrecht",
+      "lat": 52.09,
+      "lon": 5.12,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 98,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 95,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 67,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 6,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 3,
+          "mid_clouds": 0,
+          "low_clouds": 99,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 36,
+          "mid_clouds": 1,
+          "low_clouds": 2,
+          "total_clouds": 38
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 91,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 91
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 58,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 58
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 4,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 4
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    },
+    {
+      "name": "Apeldoorn",
+      "lat": 52.21,
+      "lon": 5.96,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 3,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 2,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 2,
+          "low_clouds": 6,
+          "total_clouds": 8
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 14,
+          "low_clouds": 1,
+          "total_clouds": 14
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 15,
+          "mid_clouds": 11,
+          "low_clouds": 0,
+          "total_clouds": 24
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 40,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 40
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 31,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 31
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 63,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 63
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 91,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 91
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 73,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 73
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 71,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 71
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 11,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 11
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 3
+        }
+      ]
+    },
+    {
+      "name": "Enschede",
+      "lat": 52.22,
+      "lon": 6.89,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 47,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 94,
+          "low_clouds": 84,
+          "total_clouds": 98
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 98,
+          "low_clouds": 1,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 19,
+          "low_clouds": 3,
+          "total_clouds": 19
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 36,
+          "low_clouds": 6,
+          "total_clouds": 37
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 3,
+          "mid_clouds": 17,
+          "low_clouds": 4,
+          "total_clouds": 23
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 9,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 9
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 3,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 3
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 6,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 6
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 7,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 7
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 9,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 9
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 15,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 15
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 16,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 16
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 11,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 11
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 5,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 5
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 2
+        }
+      ]
+    },
+    {
+      "name": "Den Haag",
+      "lat": 52.07,
+      "lon": 4.3,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 98,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 6,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 52,
+          "mid_clouds": 7,
+          "low_clouds": 56,
+          "total_clouds": 83
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 88,
+          "mid_clouds": 12,
+          "low_clouds": 0,
+          "total_clouds": 89
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 92,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 92
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 88,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 88
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 8,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 8
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 4,
+          "low_clouds": 0,
+          "total_clouds": 6
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 5,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 6
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 63,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 63
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 80,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 80
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 3
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        }
+      ]
+    },
+    {
+      "name": "Rotterdam",
+      "lat": 51.92,
+      "lon": 4.48,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 57,
+          "low_clouds": 99,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 9,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 3,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 65,
+          "mid_clouds": 0,
+          "low_clouds": 16,
+          "total_clouds": 74
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 88,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 88
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 88,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 88
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 44,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 44
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 80,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 80
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 93,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        }
+      ]
+    },
+    {
+      "name": "Middelburg",
+      "lat": 51.5,
+      "lon": 3.61,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 27,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 17,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 9,
+          "low_clouds": 92,
+          "total_clouds": 93
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 62,
+          "mid_clouds": 5,
+          "low_clouds": 29,
+          "total_clouds": 74
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 20,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 20
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 3,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 5
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 5,
+          "low_clouds": 0,
+          "total_clouds": 5
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    },
+    {
+      "name": "Breda",
+      "lat": 51.59,
+      "lon": 4.78,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 38,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 88,
+          "low_clouds": 50,
+          "total_clouds": 99
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 18,
+          "low_clouds": 2,
+          "total_clouds": 20
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 8,
+          "low_clouds": 6,
+          "total_clouds": 12
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 13,
+          "low_clouds": 13,
+          "total_clouds": 22
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 14,
+          "low_clouds": 15,
+          "total_clouds": 27
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 14,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 16
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 36,
+          "mid_clouds": 5,
+          "low_clouds": 0,
+          "total_clouds": 38
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 89,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 89
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 43,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 43
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 12,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 12
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 23,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 23
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 25,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 25
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 18,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 19
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    },
+    {
+      "name": "Eindhoven",
+      "lat": 51.44,
+      "lon": 5.47,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 2,
+          "low_clouds": 99,
+          "total_clouds": 99
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 10,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 4,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 14,
+          "low_clouds": 80,
+          "total_clouds": 83
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 46,
+          "low_clouds": 1,
+          "total_clouds": 46
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 21,
+          "low_clouds": 4,
+          "total_clouds": 25
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 8,
+          "low_clouds": 0,
+          "total_clouds": 8
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 5,
+          "low_clouds": 0,
+          "total_clouds": 5
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 3
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 4,
+          "low_clouds": 0,
+          "total_clouds": 4
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    },
+    {
+      "name": "Nijmegen",
+      "lat": 51.84,
+      "lon": 5.87,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 77,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 91,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 9,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 25,
+          "low_clouds": 51,
+          "total_clouds": 64
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 27,
+          "low_clouds": 2,
+          "total_clouds": 27
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 51,
+          "low_clouds": 2,
+          "total_clouds": 52
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 31,
+          "low_clouds": 8,
+          "total_clouds": 37
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 3,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 3
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 29,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 29
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 16,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 16
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 9,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 9
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 5,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 5
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 9,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 9
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 12,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 12
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 10,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 10
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    },
+    {
+      "name": "Venlo",
+      "lat": 51.37,
+      "lon": 6.17,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 91,
+          "low_clouds": 1,
+          "total_clouds": 91
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 18,
+          "low_clouds": 10,
+          "total_clouds": 27
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 38,
+          "low_clouds": 62,
+          "total_clouds": 71
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 12,
+          "low_clouds": 2,
+          "total_clouds": 12
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 24,
+          "low_clouds": 0,
+          "total_clouds": 24
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 41,
+          "low_clouds": 0,
+          "total_clouds": 41
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    },
+    {
+      "name": "Maastricht",
+      "lat": 50.85,
+      "lon": 5.69,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 34,
+          "mid_clouds": 92,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 95,
+          "low_clouds": 0,
+          "total_clouds": 95
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 6,
+          "low_clouds": 6,
+          "total_clouds": 12
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 2,
+          "total_clouds": 2
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 3
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 1
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    },
+    {
+      "name": "Texel",
+      "lat": 53.06,
+      "lon": 4.8,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 32,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 59,
+          "mid_clouds": 98,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 46,
+          "mid_clouds": 96,
+          "low_clouds": 86,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 53,
+          "mid_clouds": 86,
+          "low_clouds": 69,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 81,
+          "mid_clouds": 53,
+          "low_clouds": 36,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 90,
+          "mid_clouds": 11,
+          "low_clouds": 3,
+          "total_clouds": 91
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 89,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 89
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 11,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 4,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 95,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 95
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 71,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 71
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 27,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 27
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 15,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 15
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 60,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 60
+        }
+      ]
+    },
+    {
+      "name": "Emmen",
+      "lat": 52.78,
+      "lon": 6.9,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 100,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 1,
+          "mid_clouds": 98,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 15,
+          "mid_clouds": 84,
+          "low_clouds": 68,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 33,
+          "mid_clouds": 84,
+          "low_clouds": 54,
+          "total_clouds": 95
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 51,
+          "mid_clouds": 90,
+          "low_clouds": 32,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 51,
+          "mid_clouds": 52,
+          "low_clouds": 11,
+          "total_clouds": 80
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 41,
+          "mid_clouds": 9,
+          "low_clouds": 2,
+          "total_clouds": 48
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 39,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 39
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 79,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 79
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 93,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 93
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 78,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 78
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 82,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 82
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 95,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 95
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 95,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 95
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 96,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 96
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 94,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 94
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 98
+        }
+      ]
+    },
+    {
+      "name": "Vlissingen",
+      "lat": 51.44,
+      "lon": 3.57,
+      "hourly": [
+        {
+          "time": "01-03-2026 19:00",
+          "timestamp": "2026-03-01T19:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 95,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 20:00",
+          "timestamp": "2026-03-01T20:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 8,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 21:00",
+          "timestamp": "2026-03-01T21:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 22,
+          "low_clouds": 100,
+          "total_clouds": 100
+        },
+        {
+          "time": "01-03-2026 22:00",
+          "timestamp": "2026-03-01T22:00:00+00:00",
+          "high_clouds": 2,
+          "mid_clouds": 2,
+          "low_clouds": 67,
+          "total_clouds": 68
+        },
+        {
+          "time": "01-03-2026 23:00",
+          "timestamp": "2026-03-01T23:00:00+00:00",
+          "high_clouds": 63,
+          "mid_clouds": 0,
+          "low_clouds": 23,
+          "total_clouds": 72
+        },
+        {
+          "time": "02-03-2026 00:00",
+          "timestamp": "2026-03-02T00:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 01:00",
+          "timestamp": "2026-03-02T01:00:00+00:00",
+          "high_clouds": 97,
+          "mid_clouds": 1,
+          "low_clouds": 1,
+          "total_clouds": 97
+        },
+        {
+          "time": "02-03-2026 02:00",
+          "timestamp": "2026-03-02T02:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 03:00",
+          "timestamp": "2026-03-02T03:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 04:00",
+          "timestamp": "2026-03-02T04:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 05:00",
+          "timestamp": "2026-03-02T05:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 06:00",
+          "timestamp": "2026-03-02T06:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 07:00",
+          "timestamp": "2026-03-02T07:00:00+00:00",
+          "high_clouds": 99,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 99
+        },
+        {
+          "time": "02-03-2026 08:00",
+          "timestamp": "2026-03-02T08:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 09:00",
+          "timestamp": "2026-03-02T09:00:00+00:00",
+          "high_clouds": 100,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 100
+        },
+        {
+          "time": "02-03-2026 10:00",
+          "timestamp": "2026-03-02T10:00:00+00:00",
+          "high_clouds": 98,
+          "mid_clouds": 3,
+          "low_clouds": 0,
+          "total_clouds": 98
+        },
+        {
+          "time": "02-03-2026 11:00",
+          "timestamp": "2026-03-02T11:00:00+00:00",
+          "high_clouds": 66,
+          "mid_clouds": 1,
+          "low_clouds": 0,
+          "total_clouds": 66
+        },
+        {
+          "time": "02-03-2026 12:00",
+          "timestamp": "2026-03-02T12:00:00+00:00",
+          "high_clouds": 12,
+          "mid_clouds": 6,
+          "low_clouds": 0,
+          "total_clouds": 16
+        },
+        {
+          "time": "02-03-2026 13:00",
+          "timestamp": "2026-03-02T13:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 12,
+          "low_clouds": 0,
+          "total_clouds": 12
+        },
+        {
+          "time": "02-03-2026 14:00",
+          "timestamp": "2026-03-02T14:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 8,
+          "low_clouds": 0,
+          "total_clouds": 8
+        },
+        {
+          "time": "02-03-2026 15:00",
+          "timestamp": "2026-03-02T15:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 2,
+          "low_clouds": 0,
+          "total_clouds": 2
+        },
+        {
+          "time": "02-03-2026 16:00",
+          "timestamp": "2026-03-02T16:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 17:00",
+          "timestamp": "2026-03-02T17:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        },
+        {
+          "time": "02-03-2026 18:00",
+          "timestamp": "2026-03-02T18:00:00+00:00",
+          "high_clouds": 0,
+          "mid_clouds": 0,
+          "low_clouds": 0,
+          "total_clouds": 0
+        }
+      ]
+    }
+  ],
+  "location": "Utrecht",
+  "lat": 52.09,
+  "lon": 5.12,
+  "hourly": [
+    {
+      "time": "01-03-2026 19:00",
+      "timestamp": "2026-03-01T19:00:00+00:00",
+      "high_clouds": 0,
+      "mid_clouds": 100,
+      "low_clouds": 100,
+      "total_clouds": 100
+    },
+    {
+      "time": "01-03-2026 20:00",
+      "timestamp": "2026-03-01T20:00:00+00:00",
+      "high_clouds": 0,
+      "mid_clouds": 100,
+      "low_clouds": 98,
+      "total_clouds": 100
+    },
+    {
+      "time": "01-03-2026 21:00",
+      "timestamp": "2026-03-01T21:00:00+00:00",
+      "high_clouds": 0,
+      "mid_clouds": 100,
+      "low_clouds": 95,
+      "total_clouds": 100
+    },
+    {
+      "time": "01-03-2026 22:00",
+      "timestamp": "2026-03-01T22:00:00+00:00",
+      "high_clouds": 0,
+      "mid_clouds": 67,
+      "low_clouds": 100,
+      "total_clouds": 100
+    },
+    {
+      "time": "01-03-2026 23:00",
+      "timestamp": "2026-03-01T23:00:00+00:00",
+      "high_clouds": 0,
+      "mid_clouds": 6,
+      "low_clouds": 100,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 00:00",
+      "timestamp": "2026-03-02T00:00:00+00:00",
+      "high_clouds": 3,
+      "mid_clouds": 0,
+      "low_clouds": 99,
+      "total_clouds": 99
+    },
+    {
+      "time": "02-03-2026 01:00",
+      "timestamp": "2026-03-02T01:00:00+00:00",
+      "high_clouds": 36,
+      "mid_clouds": 1,
+      "low_clouds": 2,
+      "total_clouds": 38
+    },
+    {
+      "time": "02-03-2026 02:00",
+      "timestamp": "2026-03-02T02:00:00+00:00",
+      "high_clouds": 91,
+      "mid_clouds": 1,
+      "low_clouds": 0,
+      "total_clouds": 91
+    },
+    {
+      "time": "02-03-2026 03:00",
+      "timestamp": "2026-03-02T03:00:00+00:00",
+      "high_clouds": 94,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 94
+    },
+    {
+      "time": "02-03-2026 04:00",
+      "timestamp": "2026-03-02T04:00:00+00:00",
+      "high_clouds": 97,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 97
+    },
+    {
+      "time": "02-03-2026 05:00",
+      "timestamp": "2026-03-02T05:00:00+00:00",
+      "high_clouds": 100,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 06:00",
+      "timestamp": "2026-03-02T06:00:00+00:00",
+      "high_clouds": 100,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 07:00",
+      "timestamp": "2026-03-02T07:00:00+00:00",
+      "high_clouds": 100,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 08:00",
+      "timestamp": "2026-03-02T08:00:00+00:00",
+      "high_clouds": 100,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 09:00",
+      "timestamp": "2026-03-02T09:00:00+00:00",
+      "high_clouds": 100,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 10:00",
+      "timestamp": "2026-03-02T10:00:00+00:00",
+      "high_clouds": 100,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 11:00",
+      "timestamp": "2026-03-02T11:00:00+00:00",
+      "high_clouds": 98,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 98
+    },
+    {
+      "time": "02-03-2026 12:00",
+      "timestamp": "2026-03-02T12:00:00+00:00",
+      "high_clouds": 98,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 98
+    },
+    {
+      "time": "02-03-2026 13:00",
+      "timestamp": "2026-03-02T13:00:00+00:00",
+      "high_clouds": 96,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 96
+    },
+    {
+      "time": "02-03-2026 14:00",
+      "timestamp": "2026-03-02T14:00:00+00:00",
+      "high_clouds": 98,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 98
+    },
+    {
+      "time": "02-03-2026 15:00",
+      "timestamp": "2026-03-02T15:00:00+00:00",
+      "high_clouds": 100,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 100
+    },
+    {
+      "time": "02-03-2026 16:00",
+      "timestamp": "2026-03-02T16:00:00+00:00",
+      "high_clouds": 58,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 58
+    },
+    {
+      "time": "02-03-2026 17:00",
+      "timestamp": "2026-03-02T17:00:00+00:00",
+      "high_clouds": 4,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 4
+    },
+    {
+      "time": "02-03-2026 18:00",
+      "timestamp": "2026-03-02T18:00:00+00:00",
+      "high_clouds": 0,
+      "mid_clouds": 0,
+      "low_clouds": 0,
+      "total_clouds": 0
+    }
+  ],
+  "hours": 24
+}

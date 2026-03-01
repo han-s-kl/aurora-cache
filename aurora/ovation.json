@@ -1,0 +1,289 @@
+{
+  "fetched_at": "2026-03-01T19:17:07.769952",
+  "observation_time": "2026-03-01T19:12:00Z",
+  "forecast_time": "2026-03-01T20:23:00Z",
+  "max_aurora_nl": 0,
+  "nl_data_points": 56,
+  "nl_aurora_data": [
+    {
+      "lon": 2,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 2,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 2,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 2,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 2,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 2,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 2,
+      "lat": 55,
+      "aurora": 0
+    },
+    {
+      "lon": 3,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 3,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 3,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 3,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 3,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 3,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 3,
+      "lat": 55,
+      "aurora": 0
+    },
+    {
+      "lon": 4,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 4,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 4,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 4,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 4,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 4,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 4,
+      "lat": 55,
+      "aurora": 0
+    },
+    {
+      "lon": 5,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 5,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 5,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 5,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 5,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 5,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 5,
+      "lat": 55,
+      "aurora": 0
+    },
+    {
+      "lon": 6,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 6,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 6,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 6,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 6,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 6,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 6,
+      "lat": 55,
+      "aurora": 0
+    },
+    {
+      "lon": 7,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 7,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 7,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 7,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 7,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 7,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 7,
+      "lat": 55,
+      "aurora": 0
+    },
+    {
+      "lon": 8,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 8,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 8,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 8,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 8,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 8,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 8,
+      "lat": 55,
+      "aurora": 0
+    },
+    {
+      "lon": 9,
+      "lat": 49,
+      "aurora": 0
+    },
+    {
+      "lon": 9,
+      "lat": 50,
+      "aurora": 0
+    },
+    {
+      "lon": 9,
+      "lat": 51,
+      "aurora": 0
+    },
+    {
+      "lon": 9,
+      "lat": 52,
+      "aurora": 0
+    },
+    {
+      "lon": 9,
+      "lat": 53,
+      "aurora": 0
+    },
+    {
+      "lon": 9,
+      "lat": 54,
+      "aurora": 0
+    },
+    {
+      "lon": 9,
+      "lat": 55,
+      "aurora": 0
+    }
+  ]
+}

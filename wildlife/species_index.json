@@ -1,0 +1,2643 @@
+{
+  "generated_at": "2026-03-01T06:38:59.338624",
+  "total_species": 293,
+  "species": [
+    {
+      "species": "Aardmuis",
+      "scientific_name": "Microtus agrestis",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Alk",
+      "scientific_name": "Alca torda",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 13
+    },
+    {
+      "species": "Alk of Zeekoet",
+      "scientific_name": "Alca torda / Uria aalge",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 9
+    },
+    {
+      "species": "Alpenwatersalamander",
+      "scientific_name": "Ichthyosaura alpestris",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 284
+    },
+    {
+      "species": "Amerikaanse Smient",
+      "scientific_name": "Mareca americana",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 14
+    },
+    {
+      "species": "Appelvink",
+      "scientific_name": "Coccothraustes coccothraustes",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1901
+    },
+    {
+      "species": "Appelvink ssp coccothraustes",
+      "scientific_name": "Coccothraustes coccothraustes coccothraustes",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "Argusvlinder",
+      "scientific_name": "Lasiommata megera",
+      "category": "insect",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Baardman",
+      "scientific_name": "Panurus biarmicus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 114
+    },
+    {
+      "species": "Barmsijs",
+      "scientific_name": "Acanthis flammea",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 99
+    },
+    {
+      "species": "Beekrombout",
+      "scientific_name": "Gomphus vulgatissimus",
+      "category": "insect",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Beflijster",
+      "scientific_name": "Turdus torquatus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Beverrat",
+      "scientific_name": "Myocastor coypus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Bladkoning",
+      "scientific_name": "Phylloscopus inornatus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Blauw-gele Ara",
+      "scientific_name": "Ara ararauna",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Blauwborst",
+      "scientific_name": "Luscinia svecica",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Blauwe Ekster",
+      "scientific_name": "Cyanopica cooki",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 3
+    },
+    {
+      "species": "Blauwe Kiekendief",
+      "scientific_name": "Circus cyaneus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1307
+    },
+    {
+      "species": "Blauwvleugeltaling",
+      "scientific_name": "Spatula discors",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Bokje",
+      "scientific_name": "Lymnocryptes minimus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 55
+    },
+    {
+      "species": "Bonte Kraai",
+      "scientific_name": "Corvus cornix",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 57
+    },
+    {
+      "species": "Boomkruiper onbekend",
+      "scientific_name": "Certhiidae indet.",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "Boomleeuwerik",
+      "scientific_name": "Lullula arborea",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 2292
+    },
+    {
+      "species": "Boomleeuwerik ssp arborea",
+      "scientific_name": "Lullula arborea arborea",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 4
+    },
+    {
+      "species": "Boommarter",
+      "scientific_name": "Martes martes",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 25
+    },
+    {
+      "species": "Boomvalk",
+      "scientific_name": "Falco subbuteo",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Bosruiter",
+      "scientific_name": "Tringa glareola",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Bosuil",
+      "scientific_name": "Strix aluco",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 254
+    },
+    {
+      "species": "Brilduiker",
+      "scientific_name": "Bucephala clangula",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 989
+    },
+    {
+      "species": "Brilduiker ssp clangula",
+      "scientific_name": "Bucephala clangula clangula",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Bronskopeend",
+      "scientific_name": "Mareca falcata",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 22
+    },
+    {
+      "species": "Bruine winterjuffer",
+      "scientific_name": "Sympecma fusca",
+      "category": "insect",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 156
+    },
+    {
+      "species": "Buffelkopeend",
+      "scientific_name": "Bucephala albeola",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 33
+    },
+    {
+      "species": "Bunzing",
+      "scientific_name": "Mustela putorius",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 18
+    },
+    {
+      "species": "Californische Kuifkwartel",
+      "scientific_name": "Callipepla californica",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Caribische Troepiaal",
+      "scientific_name": "Quiscalus lugubris",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 10
+    },
+    {
+      "species": "Casarca",
+      "scientific_name": "Tadorna ferruginea",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 156
+    },
+    {
+      "species": "Cetti's Zanger",
+      "scientific_name": "Cettia cetti",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 1853
+    },
+    {
+      "species": "Cetti's Zanger ssp cetti",
+      "scientific_name": "Cettia cetti cetti",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Chileense Flamingo",
+      "scientific_name": "Phoenicopterus chilensis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "Citrusvlinder",
+      "scientific_name": "Papilio demodocus",
+      "category": "insect",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "Damhert",
+      "scientific_name": "Dama dama",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 65
+    },
+    {
+      "species": "Das",
+      "scientific_name": "Meles meles",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 209
+    },
+    {
+      "species": "Drieteenmeeuw",
+      "scientific_name": "Rissa tridactyla",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 37
+    },
+    {
+      "species": "Drieteenstrandloper",
+      "scientific_name": "Calidris alba",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 480
+    },
+    {
+      "species": "Duiker onbekend",
+      "scientific_name": "Gavia spec.",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Dwergaalscholver",
+      "scientific_name": "Microcarbo pygmaeus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 83
+    },
+    {
+      "species": "Dwerggans",
+      "scientific_name": "Anser erythropus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 66
+    },
+    {
+      "species": "Dwerggors",
+      "scientific_name": "Emberiza pusilla",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 124
+    },
+    {
+      "species": "Dwergmeeuw",
+      "scientific_name": "Hydrocoloeus minutus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 94
+    },
+    {
+      "species": "Dwergmuis",
+      "scientific_name": "Micromys minutus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 10
+    },
+    {
+      "species": "Edelhert",
+      "scientific_name": "Cervus elaphus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 44
+    },
+    {
+      "species": "Eider",
+      "scientific_name": "Somateria mollissima",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 553
+    },
+    {
+      "species": "Eider ssp mollissima",
+      "scientific_name": "Somateria mollissima mollissima",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Eland",
+      "scientific_name": "Alces alces",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Europese Bever",
+      "scientific_name": "Castor fiber",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 232
+    },
+    {
+      "species": "Europese Kanarie",
+      "scientific_name": "Serinus serinus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Europese Otter",
+      "scientific_name": "Lutra lutra",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 73
+    },
+    {
+      "species": "Europese Rode Eekhoorn",
+      "scientific_name": "Sciurus vulgaris",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 338
+    },
+    {
+      "species": "Flamingo",
+      "scientific_name": "Phoenicopterus roseus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Flamingo onbekend",
+      "scientific_name": "Phoenicopteridae indet.",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Franjestaart",
+      "scientific_name": "Myotis nattereri",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 5
+    },
+    {
+      "species": "Frater",
+      "scientific_name": "Linaria flavirostris",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 67
+    },
+    {
+      "species": "Geelbuikschildpad",
+      "scientific_name": "Trachemys scripta scripta",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 45
+    },
+    {
+      "species": "Geelpootmeeuw",
+      "scientific_name": "Larus michahellis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 130
+    },
+    {
+      "species": "Geelpootmeeuw ssp michahellis",
+      "scientific_name": "Larus michahellis michahellis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 4
+    },
+    {
+      "species": "Geelsnavelduiker",
+      "scientific_name": "Gavia adamsii",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Geelwangschildpad",
+      "scientific_name": "Trachemys scripta troostii",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 8
+    },
+    {
+      "species": "Geoorde Fuut",
+      "scientific_name": "Podiceps nigricollis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 251
+    },
+    {
+      "species": "Geoorde Fuut ssp nigricollis",
+      "scientific_name": "Podiceps nigricollis nigricollis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Gestreept Stinkdier",
+      "scientific_name": "Mephitis mephitis",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Gewone Bruinvis",
+      "scientific_name": "Phocoena phocoena",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 69
+    },
+    {
+      "species": "Gewone Dolfijn",
+      "scientific_name": "Delphinus delphis",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Gewone Grootoorvleermuis",
+      "scientific_name": "Plecotus auritus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Gewone Wasbeer",
+      "scientific_name": "Procyon lotor",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Gewone Zeehond",
+      "scientific_name": "Phoca vitulina",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 138
+    },
+    {
+      "species": "Giervalk",
+      "scientific_name": "Falco rusticolus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Glanskop",
+      "scientific_name": "Poecile palustris",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Glazenmaker onbekend",
+      "scientific_name": "Aeshna spec.",
+      "category": "insect",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Goudvink",
+      "scientific_name": "Pyrrhula pyrrhula",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 511
+    },
+    {
+      "species": "Graszanger",
+      "scientific_name": "Cisticola juncidis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 26
+    },
+    {
+      "species": "Grauwe Gors",
+      "scientific_name": "Emberiza calandra",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 70
+    },
+    {
+      "species": "Grauwe Klauwier",
+      "scientific_name": "Lanius collurio",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Grauwe Vliegenvanger",
+      "scientific_name": "Muscicapa striata",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Grijze Wouw",
+      "scientific_name": "Elanus caeruleus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 17
+    },
+    {
+      "species": "Grijze Zeehond",
+      "scientific_name": "Halichoerus grypus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 78
+    },
+    {
+      "species": "Groenlandse Kolgans",
+      "scientific_name": "Anser albifrons flavirostris",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Groenpootruiter",
+      "scientific_name": "Tringa nebularia",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 74
+    },
+    {
+      "species": "Grote Aalscholver",
+      "scientific_name": "Phalacrocorax carbo carbo",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Grote Alexanderparkiet",
+      "scientific_name": "Psittacula eupatria",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 24
+    },
+    {
+      "species": "Grote Barmsijs",
+      "scientific_name": "Acanthis flammea flammea",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 6
+    },
+    {
+      "species": "Grote Bosmuis",
+      "scientific_name": "Apodemus flavicollis",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 22
+    },
+    {
+      "species": "Grote Burgemeester",
+      "scientific_name": "Larus hyperboreus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 52
+    },
+    {
+      "species": "Grote Stern",
+      "scientific_name": "Thalasseus sandvicensis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 7
+    },
+    {
+      "species": "Grote Zaagbek",
+      "scientific_name": "Mergus merganser",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1842
+    },
+    {
+      "species": "Grote Zaagbek ssp merganser",
+      "scientific_name": "Mergus merganser merganser",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 4
+    },
+    {
+      "species": "Grote Zee-eend",
+      "scientific_name": "Melanitta fusca",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 233
+    },
+    {
+      "species": "Grote vos",
+      "scientific_name": "Nymphalis polychloros",
+      "category": "insect",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 238
+    },
+    {
+      "species": "Hazelworm",
+      "scientific_name": "Anguis fragilis",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 28
+    },
+    {
+      "species": "Heikikker",
+      "scientific_name": "Rana arvalis",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 122
+    },
+    {
+      "species": "Heivlinder",
+      "scientific_name": "Hipparchia semele",
+      "category": "insect",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Hermelijn",
+      "scientific_name": "Mustela erminea",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 18
+    },
+    {
+      "species": "Hert onbekend",
+      "scientific_name": "Cervidae indet.",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 3
+    },
+    {
+      "species": "Houtsnip",
+      "scientific_name": "Scolopax rusticola",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 521
+    },
+    {
+      "species": "Huisspitsmuis",
+      "scientific_name": "Crocidura russula",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 13
+    },
+    {
+      "species": "Humes Bladkoning",
+      "scientific_name": "Phylloscopus humei",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Hutchins' Canadese Gans",
+      "scientific_name": "Branta hutchinsii hutchinsii",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 13
+    },
+    {
+      "species": "Hybride Bonte Kraai x Zwarte Kraai",
+      "scientific_name": "Corvus cornix x Corvus corone",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Hybride Brandgans x Ross' Gans",
+      "scientific_name": "Branta leucopsis x Anser rossii",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Hybride Brilduiker x Nonnetje",
+      "scientific_name": "Mergellus albellus x Bucephala clangula",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 10
+    },
+    {
+      "species": "Hybride Casarca x Bergeend",
+      "scientific_name": "Tadorna ferruginea x Tadorna tadorna",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 7
+    },
+    {
+      "species": "Hybride Kleine Canadese Gans x Brandgans",
+      "scientific_name": "Branta hutchinsii x Branta leucopsis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Hybride Kuifeend x Tafeleend",
+      "scientific_name": "Aythya fuligula x Aythya ferina",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 31
+    },
+    {
+      "species": "Hybride Kuifeend x Topper",
+      "scientific_name": "Aythya fuligula x Aythya marila",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Hybride Peposaka-eend x Krooneend",
+      "scientific_name": "Netta peposaca x Netta rufina",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Hybride Rotgans x Witbuikrotgans",
+      "scientific_name": "Branta bernicla bernicla x Branta bernicla hrota",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Hybride Rotgans x Zwarte Rotgans",
+      "scientific_name": "Branta bernicla bernicla x Branta bernicla nigricans",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 6
+    },
+    {
+      "species": "Hybride Smient x Wilde Eend",
+      "scientific_name": "Mareca penelope x Anas platyrhynchos",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Hybride Sneeuwgans x Brandgans",
+      "scientific_name": "Anser caerulescens x Branta leucopsis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 8
+    },
+    {
+      "species": "Hybride Sneeuwgans x Keizergans",
+      "scientific_name": "Anser caerulescens x Anser canagicus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Hybride Tafeleend x Witoogeend",
+      "scientific_name": "Aythya ferina x Aythya nyroca",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 7
+    },
+    {
+      "species": "Hybride Wilde Eend x Krakeend",
+      "scientific_name": "Anas platyrhynchos x Mareca strepera",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Hybride Zilvermeeuw x Pontische Meeuw",
+      "scientific_name": "Larus argentatus x Larus cachinnans",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 8
+    },
+    {
+      "species": "IJsduiker",
+      "scientific_name": "Gavia immer",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "IJseend",
+      "scientific_name": "Clangula hyemalis",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 62
+    },
+    {
+      "species": "IJslandse Grutto",
+      "scientific_name": "Limosa limosa islandica",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 85
+    },
+    {
+      "species": "IJsvogel",
+      "scientific_name": "Alcedo atthis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1035
+    },
+    {
+      "species": "IJsvogel ssp ispida",
+      "scientific_name": "Alcedo atthis ispida",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Ingekorven Vleermuis",
+      "scientific_name": "Myotis emarginatus",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Jan-van-gent",
+      "scientific_name": "Morus bassanus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 76
+    },
+    {
+      "species": "Kaasjeskruiddikkopje",
+      "scientific_name": "Carcharodus alceae",
+      "category": "insect",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 14
+    },
+    {
+      "species": "Kanoet",
+      "scientific_name": "Calidris canutus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 219
+    },
+    {
+      "species": "Kerkuil",
+      "scientific_name": "Tyto alba",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 166
+    },
+    {
+      "species": "Kip (gedomesticeerd)",
+      "scientific_name": "Gallus gallus var. domestica",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Klapekster",
+      "scientific_name": "Lanius excubitor",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 512
+    },
+    {
+      "species": "Kleine Barmsijs",
+      "scientific_name": "Acanthis flammea cabaret",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 27
+    },
+    {
+      "species": "Kleine Bonte Specht",
+      "scientific_name": "Dryobates minor",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 508
+    },
+    {
+      "species": "Kleine Bonte Specht ssp hortorum",
+      "scientific_name": "Dryobates minor hortorum",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Kleine Burgemeester",
+      "scientific_name": "Larus glaucoides",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 36
+    },
+    {
+      "species": "Kleine Plevier ssp curonicus",
+      "scientific_name": "Thinornis dubius curonicus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Kleine Rietgans",
+      "scientific_name": "Anser brachyrhynchus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 208
+    },
+    {
+      "species": "Kleine Strandloper",
+      "scientific_name": "Calidris minuta",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 9
+    },
+    {
+      "species": "Kleine Topper",
+      "scientific_name": "Aythya affinis",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Kleine Zilverreiger",
+      "scientific_name": "Egretta garzetta",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 799
+    },
+    {
+      "species": "Kleine Zwaan",
+      "scientific_name": "Cygnus columbianus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 113
+    },
+    {
+      "species": "Kleine Zwaan ssp bewickii",
+      "scientific_name": "Cygnus columbianus bewickii",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 87
+    },
+    {
+      "species": "Kleine vos",
+      "scientific_name": "Aglais urticae",
+      "category": "insect",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 276
+    },
+    {
+      "species": "Kleinste Canadese Gans",
+      "scientific_name": "Branta hutchinsii minima",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 4
+    },
+    {
+      "species": "Koekoek",
+      "scientific_name": "Cuculus canorus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 4
+    },
+    {
+      "species": "Koereiger",
+      "scientific_name": "Ardea ibis",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 23
+    },
+    {
+      "species": "Kokardezaagbek",
+      "scientific_name": "Lophodytes cucullatus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 7
+    },
+    {
+      "species": "Koninginnenpage",
+      "scientific_name": "Papilio machaon",
+      "category": "insect",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Koningsfazant",
+      "scientific_name": "Syrmaticus reevesii",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Korhoen",
+      "scientific_name": "Lyrurus tetrix",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 78
+    },
+    {
+      "species": "Kortsnavelboomkruiper",
+      "scientific_name": "Certhia familiaris macrodactyla",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 18
+    },
+    {
+      "species": "Kraanvogel",
+      "scientific_name": "Grus grus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 3239
+    },
+    {
+      "species": "Kroeskoppelikaan",
+      "scientific_name": "Pelecanus crispus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 20
+    },
+    {
+      "species": "Krombekstrandloper",
+      "scientific_name": "Calidris ferruginea",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 26
+    },
+    {
+      "species": "Krooneend",
+      "scientific_name": "Netta rufina",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 256
+    },
+    {
+      "species": "Kruisbek",
+      "scientific_name": "Loxia curvirostra",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 114
+    },
+    {
+      "species": "Kuifaalscholver",
+      "scientific_name": "Gulosus aristotelis",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 35
+    },
+    {
+      "species": "Kuifduiker",
+      "scientific_name": "Podiceps auritus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 270
+    },
+    {
+      "species": "Kuifduiker ssp auritus",
+      "scientific_name": "Podiceps auritus auritus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Kuifleeuwerik",
+      "scientific_name": "Galerida cristata",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Kuifmees",
+      "scientific_name": "Lophophanes cristatus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Kwak",
+      "scientific_name": "Nycticorax nycticorax",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 61
+    },
+    {
+      "species": "Kwak ssp nycticorax",
+      "scientific_name": "Nycticorax nycticorax nycticorax",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Kwartel",
+      "scientific_name": "Coturnix coturnix",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Laatvlieger",
+      "scientific_name": "Eptesicus serotinus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 16
+    },
+    {
+      "species": "Levendbarende hagedis",
+      "scientific_name": "Zootoca vivipara",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 179
+    },
+    {
+      "species": "Maskergors",
+      "scientific_name": "Emberiza spodocephala",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 102
+    },
+    {
+      "species": "Matkop",
+      "scientific_name": "Poecile montanus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 294
+    },
+    {
+      "species": "Meervleermuis",
+      "scientific_name": "Myotis dasycneme",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Middelste Bonte Specht",
+      "scientific_name": "Dendrocoptes medius",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 931
+    },
+    {
+      "species": "Middelste Bonte Specht ssp medius",
+      "scientific_name": "Dendrocoptes medius medius",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Middelste Zaagbek",
+      "scientific_name": "Mergus serrator",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 613
+    },
+    {
+      "species": "Monniksparkiet",
+      "scientific_name": "Myiopsitta monachus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Morinelplevier",
+      "scientific_name": "Eudromias morinellus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Muskuseend",
+      "scientific_name": "Cairina moschata",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Muskusrat",
+      "scientific_name": "Ondatra zibethicus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 15
+    },
+    {
+      "species": "Muurhagedis",
+      "scientific_name": "Podarcis muralis",
+      "category": "amphibian",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 27
+    },
+    {
+      "species": "Nonnetje",
+      "scientific_name": "Mergellus albellus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1227
+    },
+    {
+      "species": "Noordse Kauw",
+      "scientific_name": "Coloeus monedula monedula",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 38
+    },
+    {
+      "species": "Noordse winterjuffer",
+      "scientific_name": "Sympecma paedisca",
+      "category": "insect",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Notenkraker",
+      "scientific_name": "Nucifraga caryocatactes",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Oehoe",
+      "scientific_name": "Bubo bubo",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 42
+    },
+    {
+      "species": "Oeverpieper",
+      "scientific_name": "Anthus petrosus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 154
+    },
+    {
+      "species": "Paapje",
+      "scientific_name": "Saxicola rubetra",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 4
+    },
+    {
+      "species": "Paarse Strandloper",
+      "scientific_name": "Calidris maritima",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 348
+    },
+    {
+      "species": "Palmtortel",
+      "scientific_name": "Spilopelia senegalensis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Papegaai onbekend",
+      "scientific_name": "Psittacidae indet.",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Parelduiker",
+      "scientific_name": "Gavia arctica",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 128
+    },
+    {
+      "species": "Peposaka-eend",
+      "scientific_name": "Netta peposaca",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Pestvogel",
+      "scientific_name": "Bombycilla garrulus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 369
+    },
+    {
+      "species": "Pontische Meeuw",
+      "scientific_name": "Larus cachinnans",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 560
+    },
+    {
+      "species": "Pontische of Geelpootmeeuw",
+      "scientific_name": "Larus cachinnans / michahellis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Raaf",
+      "scientific_name": "Corvus corax",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1183
+    },
+    {
+      "species": "Raaf ssp corax",
+      "scientific_name": "Corvus corax corax",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Ransuil",
+      "scientific_name": "Asio otus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 16
+    },
+    {
+      "species": "Ransuil ssp otus",
+      "scientific_name": "Asio otus otus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Regenwulp",
+      "scientific_name": "Numenius phaeopus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 16
+    },
+    {
+      "species": "Ringmus",
+      "scientific_name": "Passer montanus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 13
+    },
+    {
+      "species": "Ringslang",
+      "scientific_name": "Natrix helvetica",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 40
+    },
+    {
+      "species": "Rode Wouw",
+      "scientific_name": "Milvus milvus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 748
+    },
+    {
+      "species": "Rode Wouw ssp milvus",
+      "scientific_name": "Milvus milvus milvus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 5
+    },
+    {
+      "species": "Roerdomp",
+      "scientific_name": "Botaurus stellaris",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 275
+    },
+    {
+      "species": "Roerdomp ssp stellaris",
+      "scientific_name": "Botaurus stellaris stellaris",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Roodborsttapuit ssp rubicola",
+      "scientific_name": "Saxicola rubicola rubicola",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Roodbuikwaterspreeuw",
+      "scientific_name": "Cinclus cinclus aquaticus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Roodhalsfuut",
+      "scientific_name": "Podiceps grisegena",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 87
+    },
+    {
+      "species": "Roodhalsgans",
+      "scientific_name": "Branta ruficollis",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 286
+    },
+    {
+      "species": "Roodkeelduiker",
+      "scientific_name": "Gavia stellata",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 211
+    },
+    {
+      "species": "Roodwangschildpad",
+      "scientific_name": "Trachemys scripta elegans",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 14
+    },
+    {
+      "species": "Ross' Gans",
+      "scientific_name": "Anser rossii",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 148
+    },
+    {
+      "species": "Rosse Grutto",
+      "scientific_name": "Limosa lapponica",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 85
+    },
+    {
+      "species": "Rosse Vleermuis",
+      "scientific_name": "Nyctalus noctula",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 31
+    },
+    {
+      "species": "Rotgans",
+      "scientific_name": "Branta bernicla",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 570
+    },
+    {
+      "species": "Rouwkwikstaart",
+      "scientific_name": "Motacilla alba yarrellii",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 101
+    },
+    {
+      "species": "Roze Spreeuw",
+      "scientific_name": "Pastor roseus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Rugstreeppad",
+      "scientific_name": "Epidalea calamita",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 19
+    },
+    {
+      "species": "Ruige Dwergvleermuis",
+      "scientific_name": "Pipistrellus nathusii",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 37
+    },
+    {
+      "species": "Ruigpootbuizerd",
+      "scientific_name": "Buteo lagopus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 53
+    },
+    {
+      "species": "Russische Kauw",
+      "scientific_name": "Coloeus monedula soemmerringii",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Scandinavische Oeverpieper",
+      "scientific_name": "Anthus petrosus littoralis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Siberische Grondeekhoorn",
+      "scientific_name": "Eutamias sibiricus",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Siberische Taling",
+      "scientific_name": "Sibirionetta formosa",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 14
+    },
+    {
+      "species": "Siberische Tjiftjaf",
+      "scientific_name": "Phylloscopus collybita tristis",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 8
+    },
+    {
+      "species": "Sikahert",
+      "scientific_name": "Cervus nippon",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Slechtvalk",
+      "scientific_name": "Falco peregrinus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 945
+    },
+    {
+      "species": "Slechtvalk ssp peregrinus",
+      "scientific_name": "Falco peregrinus peregrinus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Sleedoornpage",
+      "scientific_name": "Thecla betulae",
+      "category": "insect",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 105
+    },
+    {
+      "species": "Smelleken",
+      "scientific_name": "Falco columbarius",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 106
+    },
+    {
+      "species": "Sneeuwgans",
+      "scientific_name": "Anser caerulescens",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 7
+    },
+    {
+      "species": "Sneeuwgors",
+      "scientific_name": "Plectrophenax nivalis",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 156
+    },
+    {
+      "species": "Spotvogel",
+      "scientific_name": "Hippolais icterina",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Steenmarter",
+      "scientific_name": "Martes foina",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 51
+    },
+    {
+      "species": "Steenuil",
+      "scientific_name": "Athene noctua",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 492
+    },
+    {
+      "species": "Steenuil ssp vidalii",
+      "scientific_name": "Athene noctua vidalii",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Steltkluut",
+      "scientific_name": "Himantopus himantopus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 4
+    },
+    {
+      "species": "Steppekiekendief",
+      "scientific_name": "Circus macrourus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Strandleeuwerik",
+      "scientific_name": "Eremophila alpestris",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 135
+    },
+    {
+      "species": "Strandleeuwerik ssp flava",
+      "scientific_name": "Eremophila alpestris flava",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 5
+    },
+    {
+      "species": "Taiga- of Toendrarietgans",
+      "scientific_name": "Anser fabalis / serrirostris",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 15
+    },
+    {
+      "species": "Taigaboomkruiper",
+      "scientific_name": "Certhia familiaris",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 11
+    },
+    {
+      "species": "Taigarietgans",
+      "scientific_name": "Anser fabalis",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 21
+    },
+    {
+      "species": "Toendrarietgans",
+      "scientific_name": "Anser serrirostris",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 554
+    },
+    {
+      "species": "Toendrarietgans ssp rossicus",
+      "scientific_name": "Anser serrirostris rossicus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Topper",
+      "scientific_name": "Aythya marila",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 241
+    },
+    {
+      "species": "Vale Gier",
+      "scientific_name": "Gyps fulvus",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": false,
+      "total_observations": 7
+    },
+    {
+      "species": "Veldmuis",
+      "scientific_name": "Microtus arvalis",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 28
+    },
+    {
+      "species": "Velduil",
+      "scientific_name": "Asio flammeus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 3
+    },
+    {
+      "species": "Vinpootsalamander",
+      "scientific_name": "Lissotriton helveticus",
+      "category": "amphibian",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 28
+    },
+    {
+      "species": "Visarend",
+      "scientific_name": "Pandion haliaetus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 13
+    },
+    {
+      "species": "Vleermuis onbekend",
+      "scientific_name": "Chiroptera indet.",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 77
+    },
+    {
+      "species": "Wasbeerhond",
+      "scientific_name": "Nyctereutes procyonoides",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 3
+    },
+    {
+      "species": "Water- of Oeverpieper",
+      "scientific_name": "Anthus petrosus / spinoletta",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Waterpieper",
+      "scientific_name": "Anthus spinoletta",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 364
+    },
+    {
+      "species": "Waterschildpad onbekend",
+      "scientific_name": "Emydidae indet.",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Waterspitsmuis",
+      "scientific_name": "Neomys fodiens",
+      "category": "mammal",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 5
+    },
+    {
+      "species": "Waterspreeuw",
+      "scientific_name": "Cinclus cinclus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Watervleermuis",
+      "scientific_name": "Myotis daubentonii",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "Wespendief",
+      "scientific_name": "Pernis apivorus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Wezel",
+      "scientific_name": "Mustela nivalis",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 21
+    },
+    {
+      "species": "Wezel of Hermelijn",
+      "scientific_name": "Mustela nivalis/erminea",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "Wielewaal",
+      "scientific_name": "Oriolus oriolus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Wild Zwijn",
+      "scientific_name": "Sus scrofa",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 74
+    },
+    {
+      "species": "Wilde Zwaan",
+      "scientific_name": "Cygnus cygnus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 490
+    },
+    {
+      "species": "Witbuikrotgans",
+      "scientific_name": "Branta bernicla hrota",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 81
+    },
+    {
+      "species": "Witkopstaartmees",
+      "scientific_name": "Aegithalos caudatus caudatus",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 49
+    },
+    {
+      "species": "Witoogeend",
+      "scientific_name": "Aythya nyroca",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 47
+    },
+    {
+      "species": "Witwangfluiteend",
+      "scientific_name": "Dendrocygna viduata",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 6
+    },
+    {
+      "species": "Woestijntapuit",
+      "scientific_name": "Oenanthe deserti",
+      "category": "bird",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 1
+    },
+    {
+      "species": "Wolharige Mammoet",
+      "scientific_name": "Mammuthus primigenius",
+      "category": "mammal",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Zadelrob",
+      "scientific_name": "Pagophilus groenlandicus",
+      "category": "mammal",
+      "rarity": 4,
+      "rarity_label": "zeer_zeldzaam",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Zandhagedis",
+      "scientific_name": "Lacerta agilis",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 38
+    },
+    {
+      "species": "Zeearend",
+      "scientific_name": "Haliaeetus albicilla",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 779
+    },
+    {
+      "species": "Zeearend ssp albicilla",
+      "scientific_name": "Haliaeetus albicilla albicilla",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 3
+    },
+    {
+      "species": "Zeehond onbekend",
+      "scientific_name": "Phocidae indet.",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 10
+    },
+    {
+      "species": "Zeekoet",
+      "scientific_name": "Uria aalge",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 32
+    },
+    {
+      "species": "Zilverplevier",
+      "scientific_name": "Pluvialis squatarola",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 93
+    },
+    {
+      "species": "Zilverplevier ssp squatarola",
+      "scientific_name": "Pluvialis squatarola squatarola",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 2
+    },
+    {
+      "species": "Zomertaling",
+      "scientific_name": "Spatula querquedula",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": false,
+      "total_observations": 4
+    },
+    {
+      "species": "Zwaangans",
+      "scientific_name": "Anser cygnoides",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 5
+    },
+    {
+      "species": "Zwartbuikrotgans",
+      "scientific_name": "Branta bernicla bernicla",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 22
+    },
+    {
+      "species": "Zwarte Ooievaar",
+      "scientific_name": "Ciconia nigra",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": false,
+      "total_observations": 1
+    },
+    {
+      "species": "Zwarte Roodstaart",
+      "scientific_name": "Phoenicurus ochruros",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 96
+    },
+    {
+      "species": "Zwarte Rotgans",
+      "scientific_name": "Branta bernicla nigricans",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "has_photo": true,
+      "total_observations": 35
+    },
+    {
+      "species": "Zwarte Ruiter",
+      "scientific_name": "Tringa erythropus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 213
+    },
+    {
+      "species": "Zwarte Specht",
+      "scientific_name": "Dryocopus martius",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 813
+    },
+    {
+      "species": "Zwarte Specht ssp martius",
+      "scientific_name": "Dryocopus martius martius",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 2
+    },
+    {
+      "species": "Zwarte Wouw",
+      "scientific_name": "Milvus migrans",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 15
+    },
+    {
+      "species": "Zwarte Zee-eend",
+      "scientific_name": "Melanitta nigra",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 371
+    },
+    {
+      "species": "Zwartkopmeeuw",
+      "scientific_name": "Ichthyaetus melanocephalus",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "has_photo": true,
+      "total_observations": 447
+    }
+  ]
+}
