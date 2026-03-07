@@ -1,0 +1,26 @@
+{
+  "lat": 51.29,
+  "lon": 4.5,
+  "fetched_at": "2026-03-07T06:30:31.771878",
+  "observation_count": 1,
+  "observations": [
+    {
+      "id": "wn_387587281",
+      "species": "Appelvink",
+      "scientific_name": "Coccothraustes coccothraustes",
+      "lat": 51.35831215806216,
+      "lon": 4.39850574437792,
+      "observed_on": "2026-03-06",
+      "time": "11:31",
+      "location_name": "Putte - dorp ",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "",
+      "permalink": "https://waarneming.nl/observation/387587281/",
+      "count": 1,
+      "distance_km": 10.37
+    }
+  ]
+}

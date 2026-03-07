@@ -1,0 +1,44 @@
+{
+  "lat": 50.75,
+  "lon": 6.2,
+  "fetched_at": "2026-03-07T06:30:16.955312",
+  "observation_count": 2,
+  "observations": [
+    {
+      "id": "wn_387225037",
+      "species": "Hazelworm",
+      "scientific_name": "Anguis fragilis",
+      "lat": 50.75968751027511,
+      "lon": 6.009761738506688,
+      "observed_on": "2026-03-02",
+      "time": "13:21",
+      "location_name": "Vaals - Preusbosch",
+      "source": "waarneming_nl",
+      "category": "amphibian",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "https://waarneming.nl/media/photo/144644055.jpg",
+      "permalink": "https://waarneming.nl/observation/387225037/",
+      "count": 1,
+      "distance_km": 13.43
+    },
+    {
+      "id": "wn_387420572",
+      "species": "Kraanvogel",
+      "scientific_name": "Grus grus",
+      "lat": 50.7776306,
+      "lon": 6.0025056,
+      "observed_on": "2026-03-04",
+      "time": "15:05",
+      "location_name": "Vaals - Hoog Vaals e.o.",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "https://waarneming.nl/media/photo/144747726.jpg",
+      "permalink": "https://waarneming.nl/observation/387420572/",
+      "count": 50,
+      "distance_km": 14.23
+    }
+  ]
+}

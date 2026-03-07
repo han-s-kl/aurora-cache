@@ -1,0 +1,8 @@
+{
+  "lat": 52.37,
+  "lon": 4.89,
+  "fetched_at": "2025-01-28T00:00:00",
+  "observation_count": 0,
+  "observations": [],
+  "note": "Placeholder - Amsterdam area - will be populated by GitHub Action"
+}

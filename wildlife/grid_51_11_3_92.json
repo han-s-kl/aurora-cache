@@ -1,0 +1,62 @@
+{
+  "lat": 51.11,
+  "lon": 3.92,
+  "fetched_at": "2026-03-07T06:30:25.083091",
+  "observation_count": 3,
+  "observations": [
+    {
+      "id": "wn_387177168",
+      "species": "Roerdomp",
+      "scientific_name": "Botaurus stellaris",
+      "lat": 51.23028697342777,
+      "lon": 3.881542682647705,
+      "observed_on": "2026-03-01",
+      "time": "18:27",
+      "location_name": "Zuiddorpe - Oude Polder ",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "https://waarneming.nl/media/photo/144617515.jpg",
+      "permalink": "https://waarneming.nl/observation/387177168/",
+      "count": 1,
+      "distance_km": 13.64
+    },
+    {
+      "id": "wn_387143490",
+      "species": "Ruige Dwergvleermuis",
+      "scientific_name": "Pipistrellus nathusii",
+      "lat": 51.231155,
+      "lon": 3.957028333333334,
+      "observed_on": "2026-03-01",
+      "time": "13:11",
+      "location_name": "Koewacht - Het Zand",
+      "source": "waarneming_nl",
+      "category": "mammal",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "https://waarneming.nl/media/photo/144603459.jpg",
+      "permalink": "https://waarneming.nl/observation/387143490/",
+      "count": 1,
+      "distance_km": 13.72
+    },
+    {
+      "id": "wn_387154712",
+      "species": "Kleine Burgemeester",
+      "scientific_name": "Larus glaucoides",
+      "lat": 51.22803852450929,
+      "lon": 3.818778991699219,
+      "observed_on": "2026-03-01",
+      "time": "14:37",
+      "location_name": "Westdorpe",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 3,
+      "rarity_label": "zeldzaam",
+      "photo_url": "https://waarneming.nl/media/photo/144609539.jpg",
+      "permalink": "https://waarneming.nl/observation/387154712/",
+      "count": 1,
+      "distance_km": 14.9
+    }
+  ]
+}

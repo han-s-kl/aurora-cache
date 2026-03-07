@@ -1,0 +1,26 @@
+{
+  "lat": 52.01,
+  "lon": 3.35,
+  "fetched_at": "2026-03-07T06:30:54.553684",
+  "observation_count": 1,
+  "observations": [
+    {
+      "id": "wn_387637585",
+      "species": "Jan-van-gent",
+      "scientific_name": "Morus bassanus",
+      "lat": 52.06550283333333,
+      "lon": 3.3761,
+      "observed_on": "2026-03-06",
+      "time": "15:48",
+      "location_name": "Noordzee - Nederlands Continentaal Plat (NCP)",
+      "source": "waarneming_nl",
+      "category": "bird",
+      "rarity": 2,
+      "rarity_label": "vrij_algemeen",
+      "photo_url": "https://waarneming.nl/media/photo/144863926.jpg",
+      "permalink": "https://waarneming.nl/observation/387637585/",
+      "count": 1,
+      "distance_km": 6.42
+    }
+  ]
+}
